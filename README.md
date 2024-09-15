@@ -75,9 +75,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dcarminatti/dcarminatti/output/snake.svg" alt="Snake animation" />
-
-###
